@@ -11,4 +11,7 @@ numpy==1.26.4
 requests==2.32.3
 tqdm==4.66.4
 beautifulsoup4==4.12.3
+black==25.1.0
+boto3==1.36.11
+pandas==2.2.3
 cycling_utils @ git+https://github.com/StrongResearch/cycling_utils.git
